@@ -1,0 +1,12 @@
+"C:\Users\ngwan\PycharmProjects\QuickStart M1\venv\Scripts\python.exe" "C:/Users/ngwan/PycharmProjects/QuickStart M1/Project B - Port Scanner.py"
+Enter a remote host to scan:
+192.168.1.159
+------------------------------------------------------------
+Please wait, scanning remote host 192.168.1.159
+------------------------------------------------------------
+Port 135:    Open
+Port 139:    Open
+Port 445:    Open
+Scanning Complete in:  0:34:44.349656
+
+Process finished with exit code 0

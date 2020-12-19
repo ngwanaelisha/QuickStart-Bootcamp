@@ -1,0 +1,14 @@
+"C:\Users\ngwan\PycharmProjects\QuickStart Demos\venv\Scripts\python.exe" "C:/Users/ngwan/PycharmProjects/QuickStart Demos/Project B - Port Scanner.py"
+Enter a remote host to scan: 192.168.1.178
+------------------------------------------------------------
+Please wait, scanning remote host 192.168.1.178
+------------------------------------------------------------
+Port 135:    Open
+Port 139:    Open
+Port 445:    Open
+Port 808:    Open
+Scanning Complete in:  0:34:41.292381
+Start time:  2020-08-14 17:43:06.998332
+End time:  2020-08-14 18:17:48.290713
+
+Process finished with exit code 0
